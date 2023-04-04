@@ -2,5 +2,5 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Codechella Alura*
-| :label: Tecnologias | ReactJS, TypeScript, styled-components
+| :sparkles: Nome        | *Codechella Alura*
+| :label: Tecnologias | react, typeScript, styled-components
